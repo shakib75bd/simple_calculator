@@ -1,4 +1,6 @@
-/*function calcul(a)
+/*ki ? moja na? no javasrcipt hahahahaha
 {
+
+khela hobee
     
-}
+}*/
